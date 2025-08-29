@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.header ul, .header li, .header h1 {
+    display: inline;
+    cursor: pointer;
+}
+
+.header ul {
+    color: rgb(199, 195, 195);
+    margin-left: 65%;
+}
+
+.header li {
+    margin-right: 10px;
+}
+
+.header li:hover {
+    color: white;
+}
+
+.header a {
+    color: rgb(199, 195, 195);
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: white;
+}
+
+.search {
+    margin-top: 50px;
+    text-align: center;
+}
+
+input {
+    padding: 15px;
+    width: 500px;
+}
+
+.product {
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+}
+
+.box {
+    border: 2px solid black;
+    width: 200px;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.box:hover {
+    color: white;
+    background-color: black;
+}
+
+p {
+    text-align: center;
+    font-size: small;
+    padding: 5px;
+}
+
+.aboutus {
+    text-align: center;
+    margin: 60px 0 30px;
+}
+
+.aboutus a {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.aboutus a:hover {
+    color: black;
+    background-color: gainsboro;
+    transform: scale(1.05);
+}
+
+.aboutus a:active {
+    transform: scale(0.95);
+}
+
+.contact {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.aboutp {
+    text-align: center;
+    margin-bottom: 20px;
+}
