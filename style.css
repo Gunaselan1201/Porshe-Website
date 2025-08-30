@@ -1,108 +1,116 @@
-* {
-    margin: 0;
-    padding: 0;
+*{
+    margin: 0%;
+    padding: 0%;
     cursor: pointer;
 }
-
-.header {
+.header{
     background-color: black;
     color: white;
     padding: 15px;
+    ul,li,h1{
+        display: inline;
+        cursor: pointer;
+    }
+    ul{
+        color:rgb(199, 195, 195);
+        margin-left: 65%;
+        li{
+            margin-right: 10px;
+        }
+    }
+    li:hover{
+        color: white;
+    }
+    a{
+        color:rgb(199, 195, 195);
+    }
+    a:hover{
+        color: white;
+    }
 }
-
-.header ul, .header li, .header h1 {
-    display: inline;
-    cursor: pointer;
-}
-
-.header ul {
-    color: rgb(199, 195, 195);
-    margin-left: 65%;
-}
-
-.header li {
-    margin-right: 10px;
-}
-
-.header li:hover {
-    color: white;
-}
-
-.header a {
-    color: rgb(199, 195, 195);
-    text-decoration: none;
-}
-
-.header a:hover {
-    color: white;
-}
-
-.search {
+.search{
     margin-top: 50px;
     text-align: center;
-}
 
-input {
+}
+input{
     padding: 15px;
     width: 500px;
 }
-
-.product {
+.product{
     margin-top: 100px;
     text-align: center;
+    cursor: pointer;
     color: black;
 }
-
-.box {
-    border: 2px solid black;
+.box{
+    border: 2px;
+    border-style: solid;
     width: 200px;
     display: inline-block;
-    margin: 0 20px;
+    margin-right: 50px;
+    border-color: black;
 }
-
-.box:hover {
+.box:hover{
     color: white;
     background-color: black;
 }
-
-p {
+.box a{
+    display: inline-block;
+    border-color: black;
+    text-decoration: none;
+    color: black;
+}
+.box a:hover{
+    color: white;
+    background-color: black;
+}
+p{
     text-align: center;
     font-size: small;
     padding: 5px;
 }
-
-.aboutus {
+.aboutus{
     text-align: center;
-    margin: 60px 0 30px;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
-
-.aboutus a {
-    display: inline-block;
-    padding: 15px 30px;
+.aboutus a{
+    padding: 15px;
     background-color: black;
+    height: 40px;
+    width: 150px;
     color: white;
     text-decoration: none;
-    transition: all 0.3s ease;
+    display: block;
+    transition: all 0.3s;
+   }
+.a{
+    color: bisque;
+    text-align: center;
 }
-
-.aboutus a:hover {
+.a:hover{
+    color: black;
+}
+.aboutus a:hover{
     color: black;
     background-color: gainsboro;
-    transform: scale(1.05);
+transition: scale(1.1);
 }
-
-.aboutus a:active {
-    transform: scale(0.95);
+.aboutus a:active{
+    transition: scale(0.95);
 }
-
-.contact {
+.contact{
     text-align: center;
     background-color: black;
     color: white;
     padding: 30px;
 }
-
-.aboutp {
+.aboutp{
     text-align: center;
     margin-bottom: 20px;
+}
+
+a{
+text-decoration: none;
 }
