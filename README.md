@@ -1,4 +1,4 @@
-# 🏎️ Porsche Website
+# Porsche Website
 
 > **My First Web Development Project** - A beginner-friendly website showcasing Porsche cars, built while learning HTML and CSS fundamentals.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About This Project
+## About This Project
 
 This is my **first web development project** created after learning the basics of HTML and CSS. It's a simple, static website dedicated to Porsche cars, featuring multiple pages with navigation, product displays, and contact information.
 
@@ -21,19 +21,19 @@ As a learning project, it demonstrates fundamental web development concepts incl
 
 ---
 
-## ✨ Features
+## Features
 
-- **🏠 Home Page** - Landing page with product showcase and search functionality
-- **🚗 Product Display** - Three Porsche car models with images and descriptions
-- **📄 Car Details Page** - Dedicated page for Porsche 911 with specifications
-- **ℹ️ About Us Page** - Information about the website
-- **📞 Contact Page** - Contact information and form
-- **🎨 Hover Effects** - Interactive elements with smooth transitions
-- **⚫ Dark Theme** - Black and white color scheme for a premium feel
+- **Home Page** - Landing page with product showcase and search functionality
+- **Product Display** - Three Porsche car models with images and descriptions
+- **Car Details Page** - Dedicated page for Porsche 911 with specifications
+- **About Us Page** - Information about the website
+- **Contact Page** - Contact information and form
+- **Hover Effects** - Interactive elements with smooth transitions
+- **Dark Theme** - Black and white color scheme for a premium feel
 
 ---
 
-## 🛠️ Technologies Used
+##Technologies Used
 
 - **HTML5** - Structure and content
 - **CSS3** - Styling, layouts, and animations
@@ -41,7 +41,7 @@ As a learning project, it demonstrates fundamental web development concepts incl
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 ```
 Porshe-Website/
@@ -60,33 +60,13 @@ Porshe-Website/
 
 ---
 
-## 🚀 Live Demo
+##Live Demo
 
 Check out the live website: [**Porsche Website**](https://gunaselan1201.github.io/Porshe-Website/)
 
 ---
 
-## 💻 Local Setup
-
-To run this project locally on your machine:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Gunaselan1201/Porshe-Website.git
-   ```
-
-2. **Navigate to the project folder**
-   ```bash
-   cd Porshe-Website
-   ```
-
-3. **Open in browser**
-   - Simply open `index.html` in your web browser
-   - Or use Live Server extension in VS Code for a better development experience
-
----
-
-## 🎓 What I Learned
+## 🎓What I Learned
 
 Through building this project, I gained hands-on experience with:
 
@@ -116,7 +96,7 @@ Through building this project, I gained hands-on experience with:
 
 ---
 
-## 🎨 Design Features
+## Design Features
 
 ### Color Scheme
 - **Background**: Black (`#000000`)
@@ -131,73 +111,6 @@ Through building this project, I gained hands-on experience with:
 - **Centered Content**: Text-align for consistent alignment
 
 ---
-
-## 📸 Screenshots
-
-### Home Page
-Features navigation bar, search functionality, and product showcase with three Porsche models.
-
-### Product Details
-Dedicated page for Porsche 911 with technical specifications and variant information.
-
----
-
-## 🔮 Future Enhancements
-
-As I continue learning, potential improvements include:
-
-- [ ] Make the website fully responsive for mobile devices
-- [ ] Add JavaScript for interactive features
-- [ ] Implement a working search functionality
-- [ ] Create a contact form with validation
-- [ ] Add more car models and detailed specifications
-- [ ] Improve accessibility features
-- [ ] Add animations and page transitions
-- [ ] Integrate a lightbox for image viewing
-
----
-
-## 📝 Notes
-
-- This is a **learning project** and not affiliated with Porsche AG
-- Images are placeholder product images
-- Contact information is dummy data
-- The website is optimized for desktop viewing
-
----
-
-## 🤝 Contributing
-
-Since this is a personal learning project, I'm not actively seeking contributions. However, feedback and suggestions are always welcome!
-
-Feel free to:
-- Open an issue for suggestions
-- Fork the project for your own learning
-- Share your feedback on the code
-
----
-
-## 📧 Contact
-
-- **GitHub**: [@Gunaselan1201](https://github.com/Gunaselan1201)
-- **Project Link**: [https://github.com/Gunaselan1201/Porshe-Website](https://github.com/Gunaselan1201/Porshe-Website)
-
----
-
-## 📜 License
-
-This project is open source and available for educational purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to all the online tutorials and resources that helped me learn HTML and CSS
-- GitHub Pages for providing free hosting
-- The web development community for inspiration
-
----
-
 <div align="center">
   <p><strong>⭐ If you found this project helpful for learning, please consider giving it a star!</strong></p>
   <p>Made with ❤️ by Gunaselan | First Web Development Project</p>
